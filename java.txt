@@ -1,1 +1,2 @@
 Java é uma linguagem de programação.
+Java está na versão 24.
